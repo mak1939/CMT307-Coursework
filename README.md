@@ -26,4 +26,4 @@ How to run in Linux:
 
 7.open IMDB.ipynb in the jupyter notebook
 
-The python code for section 2 runs using Python 3 so will require that or anything more up to dat to fully experience the code.
+The python code for section 2 runs using Python 3 so will require that or anything more up to dat to fully experience the code. Once downloaded it can be viewed in a jupyter notebook.
